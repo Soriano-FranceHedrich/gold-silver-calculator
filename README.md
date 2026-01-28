@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gold and Silver Price Calculator System
 
 A web-based Gold and Silver Calculator System built with Vue.js 3, featuring user authentication and real-time price calculations.
@@ -109,3 +110,7 @@ npm run preview
 - User data is stored in browser localStorage (for demo purposes)
 - In a production environment, this should be replaced with a proper backend API
 - Passwords are stored in plain text (for demo only - should be hashed in production)
+=======
+# gold-silver-calculator
+Activity3
+>>>>>>> 709ce6a3b41ad0985370dda72ebcb8277f58ebe9
